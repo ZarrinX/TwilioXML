@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="woman" language="en">
-
+    <Say voice="alice">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus at mi volutpat, pellentesque libero ac, venenatis leo. Pellentesque interdum finibus ligula eget varius. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus molestie sit amet tortor non porta. Vivamus sed dui eget tellus lacinia gravida. Sed mollis efficitur elit vitae pharetra. Nullam suscipit, velit semper congue eleifend, felis augue accumsan leo, eu condimentum tortor magna sed nunc. Praesent mauris tortor, suscipit eget commodo nec, fringilla et purus.
 
 Vivamus commodo enim pretium sem fringilla, id vestibulum libero consequat. Vestibulum ultricies dolor ac tristique ullamcorper. Maecenas blandit interdum felis nec viverra. Nullam dapibus lorem sapien, tincidunt bibendum elit mollis in. Aenean quam sapien, fermentum non nibh in, pulvinar vestibulum urna. Nulla at mi ut ante blandit blandit sit amet et magna. Maecenas sollicitudin posuere lacinia. Integer in euismod mi, quis sollicitudin turpis. Nulla facilisi. In posuere nec augue vel placerat. Aliquam in euismod lectus, vel maximus ex. Vivamus non leo id mi vulputate ornare. Morbi convallis auctor risus pellentesque blandit. Mauris rhoncus vel tellus quis tincidunt.
