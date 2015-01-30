@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="woman" language="en">
+    <Say voice="alice">
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus at mi volutpat, pellentesque libero ac, venenatis leo. Pellentesque interdum finibus ligula eget varius. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus molestie sit amet tortor non porta. Vivamus sed dui eget tellus lacinia gravida. Sed mollis efficitur elit vitae pharetra. Nullam suscipit, velit semper congue eleifend, felis augue accumsan leo, eu condimentum tortor magna sed nunc. Praesent mauris tortor, suscipit eget commodo nec, fringilla et purus.
 
